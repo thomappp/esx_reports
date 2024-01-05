@@ -7,5 +7,5 @@ Command Usage:
 - "/report <message> pour soumettre instantanément une requête d'assistance accompagnée d'un message personnalisé."
 
 ![screen](https://github.com/thomappp/esx_reports/blob/main/screen/screen.png)
-![screen](https://github.com/thomappp/esx_reports/blob/main/screen1/screen.png)
-![screen](https://github.com/thomappp/esx_reports/blob/main/screen2/screen.png)
+![screen](https://github.com/thomappp/esx_reports/blob/main/screen/screen1.png)
+![screen](https://github.com/thomappp/esx_reports/blob/main/screen/screen2.png)
