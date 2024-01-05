@@ -1,10 +1,10 @@
 # ESX Reports System
 
-Menu Key: **F10**
+Accéder au menu administratif: **F10**
 
-Report Command: **/report**
+Soumettre une demande d'assistance: **/report**
 
-Command Usage:
+Deux méthodes pour utiliser la commande d'assistance:
 - "/report" pour accéder au menu d'assistance contenant des motifs préétablis.
 - "/report <message> pour soumettre instantanément une requête d'assistance accompagnée d'un message personnalisé."
 
