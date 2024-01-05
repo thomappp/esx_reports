@@ -1,7 +1,9 @@
 # ESX Reports System
 
 Menu Key: **F10**
+
 Report Command: **/report**
+
 Command Usage:
 - "/report" pour d'accéder au menu contenant des motifs préétablis.
 - "/report <message> pour soumettre instantanément une requête d'assistance accompagnée d'un message personnalisé."
