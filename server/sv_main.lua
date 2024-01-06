@@ -61,14 +61,14 @@ function SERVER:Init()
     end)
 
     RegisterServerEvent("esx_reports:AddReport")
-    AddEventHandler("esx_reports:AddReport", function(text)
+    AddEventHandler("esx_reports:AddReport", function(Text)
         local Player = ESX.GetPlayerFromId(source)
         self.ReportCount = self.ReportCount + 1
 
         self.Reports[self.ReportCount] = {
             Id = self.ReportCount,
             User = Player,
-            Message = text,
+            Message = Text,
             Admin = nil
         }
 
